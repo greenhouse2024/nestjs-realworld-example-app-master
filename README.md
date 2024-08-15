@@ -13,7 +13,7 @@
 
 Clone the repository
 
-    git clone https://github.com/greenhouse2024/nestjs-realworld-example-app.git
+    git clone https://github.com/greenhouse2024/nestjs-realworld-example-app-master.git
 
 Switch to the repo folder
 
